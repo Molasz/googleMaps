@@ -49,3 +49,10 @@ class RegisteredUser {
     }
 }
 ```
+
+# Ejercicio Práctico
+Para ejecutar la aplicacion se debera crear una carpera "/config" en "/src", y en esa carpera crear un archivo "MAPS_KEY.js".
+```
+MAPS_KEY.js
+export const key = "GOOGLE-MAPS-API-KEY";
+```
